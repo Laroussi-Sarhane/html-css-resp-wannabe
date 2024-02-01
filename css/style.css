@@ -137,7 +137,7 @@ img {
  @media screen and (max-width: 480px) {
     .container{
         max-width: 480px;
-        width: 80%;
+        width: 100%;
     }
     .row{
         flex-direction: column;
@@ -153,7 +153,7 @@ img {
         justify-content: center;
     }
     .why-us .col-left img{
-        width: 70px;
+        width: 90%;
     }
     .steps{
         margin-bottom: 0;
